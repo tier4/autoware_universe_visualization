@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>autoware_trajectory_dummy_concatenator_rviz_plugin</name>
+  <name>autoware_trajectory_dummy_gate_rviz_plugin</name>
   <version>0.1.0</version>
-  <description>RViz2 panel plugin to toggle the DiffusionPlanner override in autoware_trajectory_dummy_concatenator</description>
+  <description>RViz2 panel plugin to toggle the DiffusionPlanner override in autoware_trajectory_dummy_gate</description>
   <maintainer email="takumi.odashima@tier4.jp">Takumi Odashima</maintainer>
 
   <license>Apache License 2.0</license>
